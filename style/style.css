@@ -1,0 +1,15 @@
+
+.bg-green{
+    background-color:#00E165;
+}
+
+.margin-nest-elements{
+    margin: 0.2rem;
+}
+
+.fj-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
