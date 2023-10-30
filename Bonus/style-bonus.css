@@ -1,0 +1,24 @@
+.box{
+    height: 5rem;
+    width: 100%;
+}
+
+.bg-brown{
+    background-color: rgba(91, 50, 0, 0.826);
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-orange{
+    background-color: rgb(220, 150, 20);
+}
+
+.box-tail:hover{
+    background-color: red;
+}
+
+.box-eye:hover{
+    background-color: rgb(9, 0, 128);
+}
