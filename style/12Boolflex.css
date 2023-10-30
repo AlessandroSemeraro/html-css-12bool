@@ -32,10 +32,13 @@
     background-color: #036EFA;
     color: white;
     border: 0.5px solid white;
-    padding: 1rem 0;
+    padding: 1rem;
 }
 
-
+/*RESET PADDING COLONNE OFFSET*/
+[class*="col-offset"]{
+    padding: 0;
+}
 
 /* ! colonna da 1 colonna su dodici, 1/12 */
 .col-1{
